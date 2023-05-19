@@ -16,4 +16,4 @@ Este projeto consiste na criação de um Linktree utilizando HTML e CSS, ofereci
  - Utilize o arquivo style.css para ajustar a aparência visual do seu Linktree, se desejar.
  - Salve as alterações e recarregue a página para visualizar as modificações feitas.
 ## Créditos
-Este projeto foi desenvolvido como parte dos cursos oferecidos pela Rocketseat, uma plataforma de ensino online que oferece cursos de programação e desenvolvimento web.
+Este projeto foi desenvolvido como parte dos cursos oferecidos pela Rocketseat, uma plataforma de ensino online que oferece cursos de programação e desenvolvimento web. Além disso faz parte de um dos desafios propostos durante o programa trainee de desenvolvimento da empresa júnior TITAN.
